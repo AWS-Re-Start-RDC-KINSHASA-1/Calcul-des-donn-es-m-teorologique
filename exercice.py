@@ -1,3 +1,5 @@
+# Exercice 1 ajouté !
+
 import os
 
 def new_user():
